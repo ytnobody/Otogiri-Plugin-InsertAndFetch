@@ -58,6 +58,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/ytnobody/Otogiri-Plugin-InsertAndFetch/issues"
+      },
+      "homepage" : "https://github.com/ytnobody/Otogiri-Plugin-InsertAndFetch",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/ytnobody/Otogiri-Plugin-InsertAndFetch.git",
+         "web" : "https://github.com/ytnobody/Otogiri-Plugin-InsertAndFetch"
+      }
+   },
    "version" : "0.01",
    "x_authority" : "cpan:YTURTLE"
 }

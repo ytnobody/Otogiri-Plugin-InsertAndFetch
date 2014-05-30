@@ -39,3 +39,7 @@ it under the same terms as Perl itself.
 # AUTHOR
 
 ytnobody <ytnobody@gmail.com>
+
+# SEE ALSO
+
+[Otogiri](http://search.cpan.org/perldoc?Otogiri)

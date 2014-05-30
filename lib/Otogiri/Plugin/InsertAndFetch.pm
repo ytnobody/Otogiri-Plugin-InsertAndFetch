@@ -58,5 +58,9 @@ it under the same terms as Perl itself.
 
 ytnobody E<lt>ytnobody@gmail.comE<gt>
 
+=head1 SEE ALSO
+
+L<Otogiri>
+
 =cut
 
